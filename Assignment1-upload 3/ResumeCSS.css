@@ -1,0 +1,40 @@
+body {											
+	background: url(WelcomeImage.png) no-repeat center center fixed; 
+	margin-left: 10%;
+	margin-right: 10%;
+    height:100%;
+}    												
+
+h2 {
+	text-align: center;   /*Exc1*/	
+	color:#1F618D;
+	font-family: "Gill Sans";
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-color: #D2B4DE;
+	font-weight:bold;
+}
+h1 {
+	text-align: left; 
+	font-family: "Book Antiqua";
+	color:#D35400;
+}
+
+
+#list{
+	text-align:center;
+	
+}
+
+a{
+	font-size: 14pt;
+}
+
+#footer{
+	text-align: right;
+	height: 50px;
+	padding: 8px;
+	position:absolute; 
+	bottom:0px;
+	right: 10px;
+}
